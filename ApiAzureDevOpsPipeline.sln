@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiAzureDevOpsPipeline", "ApiAzureDevOpsPipeline\ApiAzureDevOpsPipeline.csproj", "{D4A89611-0E33-4589-9A2E-4407544B622D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4A89611-0E33-4589-9A2E-4407544B622D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A89611-0E33-4589-9A2E-4407544B622D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A89611-0E33-4589-9A2E-4407544B622D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A89611-0E33-4589-9A2E-4407544B622D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ADBFF76-9E5A-4861-BDA9-33307178C7E5}
+	EndGlobalSection
+EndGlobal
